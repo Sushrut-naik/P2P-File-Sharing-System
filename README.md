@@ -1,6 +1,4 @@
-# Assignment 4
-
-## Distributed File Sharing System
+# Distributed File Sharing System
 
 ## Data Structures Used :
 ### Tracker side data structures : 
